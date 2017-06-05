@@ -23,10 +23,11 @@ text-shadow:0px 0px 5px gray;}
 text-shadow:-1px -1px 0px white,1px 1px 0px darkgray;}
 
 .embos{color:white;
-text-shadow:-1px -1px 0px darkgray,
-  
-1px 1px 0px white;
-transform:translateX(100px);transform:translateY(50px);transform:transform:translateX(30px);transform:rotate(30deg);
+text-shadow:-1px -1px 0px darkgray 1px 1px 0px white;
+  transform:translateX(100px);
+  transform:translateY(50px);
+  transform:translateX(30px);
+  transform:rotate(30deg);
 }
 
 .stroke{color:white;
@@ -122,5 +123,4 @@ p.tran a:hover{
   padding:5px;
   color:black;
 }
-}
-  
+
