@@ -6,7 +6,7 @@ padding:0;
 body{
   background-image:url(./img/good.png),url(./img/dg.jpg);
   background-repeat:no-repeat,no-repeat;
-  background-size:5px 5px,cover;
+  background-size:5% 5%,cover;
 margin:5px;
 }
 
