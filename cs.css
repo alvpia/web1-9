@@ -26,7 +26,8 @@ text-shadow:-1px -1px 0px white,1px 1px 0px darkgray;}
 text-shadow:-1px -1px 0px darkgray,
   
 1px 1px 0px white;
-transform:translateX(10px);}
+transform:translateX(100px),translateY(50px), transform:translateX(30px),rotate(30deg);
+}
 
 .stroke{color:white;
 text-shadow:1px 1px 0px gray,-1px -1px 0px gray,1px 1px 0px gray,-1px -1px 0px gray;}
