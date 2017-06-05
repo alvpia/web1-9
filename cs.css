@@ -4,7 +4,7 @@ padding:0;
 }
 
 body{
-  background-image:url(../img/good.png),url(../img/dg.jpg);
+  background-image:url(./img/good.png),url(./img/dg.jpg);
   background-repeat:no-repeat,no-repeat;
 margin:5px;
 }
