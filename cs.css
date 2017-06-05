@@ -114,7 +114,7 @@ p.tran a{
   color:white;
   font-size:30px;
   padding:5px;
-  transition:background-color 1s 0s color 1s 1s;
+  transition:background-color 3s 2s color 3s 2s;
 }
 p.tran a:hover{
  background-color:gold;
