@@ -26,7 +26,7 @@ text-shadow:-1px -1px 0px white,1px 1px 0px darkgray;}
 text-shadow:-1px -1px 0px darkgray,
   
 1px 1px 0px white;
-transform:translateX(100px),translateY(50px), transform:translateX(30px),rotate(30deg);
+transform:translateX(100px);transform:translateY(50px);transform:transform:translateX(30px);transform:rotate(30deg);
 }
 
 .stroke{color:white;
@@ -114,7 +114,7 @@ p.tran a{
   color:white;
   font-size:30px;
   padding:5px;
-  transition:background-color 3s 2s color 3s 2s;
+  transition:background-color 1s 0s, color 1s 1s;
 }
 p.tran a:hover{
  background-color:gold;
